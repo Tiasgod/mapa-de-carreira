@@ -1,0 +1,115 @@
+{
+  "seo": {
+    "title": "Tiago Pereira Dias | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Tiago Pereira Dias, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Tiago Pereira Dias",
+    "canonicalUrl": "https://tiasgod.github.io/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Tiago Pereira Dias",
+    "headline": "Dados, Full-Stack e Inteligência Artificial",
+    "photo": "assets/images/profile.jpg",
+    "photoAlt": "Foto profissional de Tiago Pereira Dias",
+    "summary": "Sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec, e estudante do ProaProfissão, com foco em análise de dados, desenvolvimento full-stack e IA. Tenho experiência em construção de APIs usando Python e Java, análise de dados, criação de IAs e desenvolvimento web. Sou apaixonado por tecnologia e busco sempre aprender e crescer com minhas habilidades.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+    {
+      "label": "tigo4581@hotmail.com",
+      "url": "mailto:tigo4581@hotmail.com"
+    },
+    {
+      "label": "linkedin.com/in/tiagopdias-02-2004-ti",
+      "url": "https://www.linkedin.com/in/tiagopdias-02-2004-ti/"
+    },
+    {
+      "label": "github.com/Tiasgod",
+      "url": "https://github.com/Tiasgod"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Analista de Dados Junior",
+      "description": "Consolidar os fundamentos de análise de dados, desenvolver pipelines de coleta e tratamento de dados, criar visualizações e relatórios que apoiem a tomada de decisão. Nesta fase, o foco é construir uma base sólida em SQL, Python para dados e ferramentas de BI.",
+      "softSkills": [
+        "Atenção aos detalhes para garantir a qualidade e integridade dos dados analisados.",
+        "Comunicação clara para traduzir achados técnicos em informações úteis para times de negócio.",
+        "Curiosidade analítica para investigar anomalias, padrões e oportunidades nos dados."
+      ],
+      "roadmap": [
+        "SQL avançado",
+        "Python (Pandas, NumPy)",
+        "Power BI / Looker Studio",
+        "ETL e pipelines de dados",
+        "Estatística aplicada",
+        "Git e versionamento"
+      ]
+    },
+    {
+      "title": "Cientista de Dados / Engenheiro de Dados",
+      "description": "Atuar com modelagem preditiva, machine learning e engenharia de dados. Construir modelos estatísticos e de IA que resolvam problemas reais de negócio, além de estruturar arquiteturas de dados escaláveis e confiáveis.",
+      "softSkills": [
+        "Pensamento crítico para questionar hipóteses, validar modelos e evitar vieses nos dados.",
+        "Colaboração com times multidisciplinares de produto, engenharia e negócio.",
+        "Capacidade de traduzir resultados complexos em impacto claro e compreensível."
+      ],
+      "roadmap": [
+        "Machine Learning (Scikit-learn)",
+        "Deep Learning (TensorFlow / PyTorch)",
+        "LLMs e IA Generativa",
+        "Engenharia de features",
+        "Cloud (AWS / GCP / Azure)",
+        "Apache Spark / Airflow"
+      ]
+    },
+    {
+      "title": "Professor de TI / Especialista Sênior",
+      "description": "Compartilhar conhecimento de forma estruturada, seja como professor, mentor técnico ou especialista sênior. Nesta etapa, o objetivo é combinar a experiência prática acumulada com a capacidade de desenvolver outras pessoas e contribuir para a área de tecnologia e educação.",
+      "softSkills": [
+        "Didática e escuta ativa para adaptar o ensino ao nível e contexto de cada aluno.",
+        "Visão sistêmica sobre mercado de tecnologia, tendências e necessidades de formação.",
+        "Liderança pelo exemplo, com postura de aprendizado contínuo e abertura ao novo."
+      ],
+      "roadmap": [
+        "Licenciatura ou formação pedagógica",
+        "Criação de conteúdo técnico",
+        "Mentoria e orientação de projetos",
+        "Pesquisa aplicada em IA e dados",
+        "Publicações e portfólio público"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Front-End",
+      "skills": [
+        { "name": "HTML / CSS", "level": 85 },
+        { "name": "JavaScript", "level": 80 },
+        { "name": "React.js", "level": 65 }
+      ]
+    },
+    {
+      "title": "Back-End e Dados",
+      "skills": [
+        { "name": "Python", "level": 95 },
+        { "name": "Java", "level": 80 },
+        { "name": "Ollama (IA Local)", "level": 70 },
+        { "name": "Node.js", "level": 60 },
+        { "name": "PostgreSQL", "level": 65 }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git",
+    "Bootstrap",
+    "MySQL",
+    "SQL",
+    "Excel",
+    "APIs REST",
+    "IA Generativa"
+  ],
+  "languages": [
+    { "name": "Português", "level": "Nativo" },
+    { "name": "Inglês", "level": "Intermediário" }
+  ]
+}
